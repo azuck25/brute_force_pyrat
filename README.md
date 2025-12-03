@@ -1,5 +1,5 @@
 # brute_force_pyrat
-THM PyRat Room. Cyberlab tool to brute force PyRat simple http server
+THM PyRat Room. Simple proof of concept tool to brute force PyRat http server
 
 
 ┌──(bruteproject)─(zuck㉿)-[~/VScode_projects]  
