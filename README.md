@@ -2,28 +2,33 @@
 THM PyRat Room. Cyberlab tool to brute force PyRat simple http server
 
 
-┌──(bruteproject)─(zuck㉿)-[~/VScode_projects]
+┌──(bruteproject)─(zuck㉿)-[~/VScode_projects]  
 └─$ python3 bruteforce_server.py pass.txt
 Password:
 
 
-123456
+123456  
+
+Password:  
+
+not found index : 1  
+
 Password:
-not found index : 1
+
+
+password  
+
+Password:  
+
+not found index : 2  
+
 Password:
 
 
-password
-Password:
-not found index : 2
-Password:
 
-.
-.
-.
-.
-.
+abc123  
 
-abc123
-Welcome Admin!!! Type "shell" to begin
-password found : abc123     
+Welcome Admin!!! Type "shell" to begin  
+
+password found : abc123       
+
